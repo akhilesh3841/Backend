@@ -16,3 +16,20 @@ var b=52
 //global jo hai 
 
 console.log(this)
+
+
+// to push on the github
+
+// git init
+// git branch -M main
+// git add .
+// git commit -m "Initial commit"
+// git remote add origin https://github.com/akhilesh3841/Backend.git
+// git push -u origin main
+
+//to update code on github
+
+// git add .
+// git commit -m "Your update message here"
+// git push
+
